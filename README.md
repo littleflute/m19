@@ -1,4 +1,4 @@
-[v0.0.9](https://github.com/littleflute/m19/edit/master/README.md)
+[v0.1.0](https://github.com/littleflute/m19/edit/master/README.md)
 
 [Sound City/cd](Sound City/cd)
 
@@ -13,3 +13,5 @@
 [Tank/Now or never/cd](Tank/Now or never/cd)
 
 [Tank/Stronger/cd](Tank/Stronger/cd)
+
+[Tenacious D/The pick of destiny/cd](Tenacious D/The pick of destiny/cd)
