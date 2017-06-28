@@ -1,0 +1,256 @@
+Your status: OK
+Checkouts
+ Digital:0
+ Library:50
+Holds
+ Digital:0
+ Library:127
+Ready for pickup:18
+Fines
+ Total due:$0.00
+Personal Information Personal Information Checkouts Checkouts
+Holds Holds
+Fines Fines
+Digital Checkouts
+Library Checkouts
+Total Items Checked Out: 50
+Items Overdue:Items Overdue: 0
+Select All
+Click to Sort		Title / AuthorClick to Sort	Times RenewedClick to Sort	Date DueClick to Sort
+Cover image for How to make animated films : Tony White's complete masterclass on the traditional principles of animation	
+How to make animated films : Tony White's complete masterclass on the traditional principles of animation
+White, Tony, 1947- 
+2	1/5/16
+Cover image for Mel Bay's complete book of harmony, theory & voicing	
+Mel Bay's complete book of harmony, theory & voicing
+Willmott, Bret. 
+2	1/5/16
+Cover image for C++ all-in-one for dummies	
+C++ all-in-one for dummies
+Mueller, John, 1958- 
+0	1/5/16
+Cover image for James Taylor anthologyJames Taylor anthology	
+James Taylor anthology
+Taylor, James, 1948- 
+0	1/5/16
+Cover image for The Jimi Hendrix Experience [videorecording] : live at Monterey	
+The Jimi Hendrix Experience [videorecording] : live at Monterey
+Hendrix, Jimi. 
+0	1/5/16
+Cover image for Whitney Houston [videorecording] : her life story : unauthorized documentary	
+Whitney Houston [videorecording] : her life story : unauthorized documentary
+Houston, Whitney. 
+0	1/5/16
+Cover image for Last shop standing [videorecording] : the rise, fall and rebirth of the independent record shop	
+Last shop standing [videorecording] : the rise, fall and rebirth of the independent record shop
+Piper, Pip. 
+0	1/5/16
+Cover image for How to win friends & influence people	
+How to win friends & influence people
+Carnegie, Dale, 1888-1955. 
+1	1/6/16
+Cover image for Modern C++ programming with test-driven development : code better, sleep better	
+Modern C++ programming with test-driven development : code better, sleep better
+Langr, Jeff, 
+0	1/6/16
+Cover image for The motorboat book : build & launch 20 jet boats, paddle-wheelers, electric submarines & more	
+The motorboat book : build & launch 20 jet boats, paddle-wheelers, electric submarines & more
+Sobey, Edwin J. C., 1948- 
+0	1/6/16
+Cover image for Algorithms and networking for computer games	
+Algorithms and networking for computer games
+Smed, Jouni. 
+0	1/6/16
+Cover image for The complete master works [videorecording]	
+The complete master works [videorecording]
+Tenacious D (Musical group) 
+1	1/6/16
+Cover image for The only guitar book you'll ever need : from tuning your instrument and learning chords to reading music and writing songs, everything you need to play like the best	
+The only guitar book you'll ever need : from tuning your instrument and learning chords to reading music and writing songs, everything you need to play like the best
+Schonbrun, Marc. 
+1	1/9/16
+Cover image for Once upon a secret : my affair with President John F. Kennedy and its aftermath	
+Once upon a secret : my affair with President John F. Kennedy and its aftermath
+Alford, Mimi. 
+2	1/11/16
+Cover image for A random walk down Wall Street : the time-tested strategy for successful investing	
+A random walk down Wall Street : the time-tested strategy for successful investing
+Malkiel, Burton Gordon. 
+2	1/11/16
+Cover image for Talk like TED : the 9 public-speaking secrets of the world's top minds	
+Talk like TED : the 9 public-speaking secrets of the world's top minds
+Gallo, Carmine. 
+1	1/11/16
+Cover image for I was there : gigs that changed the world	
+I was there : gigs that changed the world
+Paytress, Mark. 
+2	1/12/16
+Cover image for Making gourd musical instruments	
+Making gourd musical instruments
+Summit, Ginger. 
+2	1/12/16
+Cover image for Goblin secrets	
+Goblin secrets
+Alexander, William (William Joseph), 1976- 
+1	1/12/16
+Cover image for Indie rock 101 : running, recording and promoting your band	
+Indie rock 101 : running, recording and promoting your band
+Turgeon, Richard, 1970- 
+1	1/12/16
+Cover image for Sams teach yourself C++ in one hour a day	
+Sams teach yourself C++ in one hour a day
+Rao, Siddhartha. 
+0	1/13/16
+Cover image for Beginning C++ through game programming	
+Beginning C++ through game programming
+Dawson, Mike, 1947- 
+0	1/13/16
+Cover image for Cat Stevens complete : songs from 1970-1975	
+Cat Stevens complete : songs from 1970-1975
+Islam, Yusuf, 1948- 
+0	1/13/16
+Cover image for The Best jazz standards ever : piano, vocal, guitar	
+The Best jazz standards ever : piano, vocal, guitar
+Hal Leonard Publishing Corporation. 
+0	1/13/16
+Cover image for More of the best jazz standards ever	
+More of the best jazz standards ever
+Hal Leonard Publishing Corporation. 
+0	1/13/16
+Cover image for Jazz standards : piano, vocal, guitar	
+Jazz standards : piano, vocal, guitar
+Hal Leonard Publishing Corporation. 
+0	1/13/16
+Cover image for Beatles complete easy guitarBeatles complete easy guitar	
+Beatles complete easy guitar
+
+2	1/16/16
+Cover image for Contemporary eartraining. Level one	
+Contemporary eartraining. Level one
+Harrison, Mark, 1956- 
+2	1/16/16
+Cover image for How to make your electric guitar play great!	
+How to make your electric guitar play great!
+Erlewine, Dan. 
+0	1/16/16
+Cover image for Essentialism : the disciplined pursuit of less	
+Essentialism : the disciplined pursuit of less
+McKeown, Greg. 
+2	1/19/16
+Cover image for Rock band	
+Rock band
+
+2	1/19/16
+Cover image for Tunes : a comic book history of rock and roll	
+Tunes : a comic book history of rock and roll
+Brunner, Vincent. 
+1	1/19/16
+Cover image for Blues harmonica collection	
+Blues harmonica collection
+McKelvy, David. 
+1	1/19/16
+Cover image for Dylan : 100 songs & pictures	
+Dylan : 100 songs & pictures
+Dylan, Bob, 1941- 
+1	1/19/16
+Cover image for Junk drawer physics : 50 awesome experiments that don't cost a thing	
+Junk drawer physics : 50 awesome experiments that don't cost a thing
+Mercer, Bobby, 1961- 
+1	1/19/16
+Cover image for Part II [sound recording]	
+Part II [sound recording]
+Paisley, Brad. 
+0	1/19/16
+Cover image for Christmas with the Beach Boys [sound recording]	
+Christmas with the Beach Boys [sound recording]
+Beach Boys. 
+0	1/19/16
+Cover image for Never s-a-y never [sound recording]	
+Never s-a-y never [sound recording]
+Brandy, 1979- 
+0	1/19/16
+Cover image for Superstar Christmas [sound recording]	
+Superstar Christmas [sound recording]
+
+0	1/19/16
+Cover image for Something new [sound recording]	
+Something new [sound recording]
+Beatles. 
+0	1/19/16
+Cover image for Chronicles [sound recording] : the best of Eric Clapton	
+Chronicles [sound recording] : the best of Eric Clapton
+Clapton, Eric. 
+0	1/19/16
+Cover image for Old time religion [sound recording]	
+Old time religion [sound recording]
+Guthrie, Woody, 1912-1967. 
+0	1/19/16
+Cover image for Dylan, Cash and the Nashville Cats : a new music city	
+Dylan, Cash and the Nashville Cats : a new music city
+Dylan, Bob, 1941- 
+0	1/19/16
+Cover image for Duets [sound recording]	
+Duets [sound recording]
+Anka, Paul. 
+0	1/19/16
+Cover image for The very best of Robert Palmer [sound recording]	
+The very best of Robert Palmer [sound recording]
+Palmer, Robert, 1949- 
+0	1/19/16
+Cover image for The personal MBA : a world-class business education in a single volume	
+The personal MBA : a world-class business education in a single volume
+Kaufman, Josh. 
+1	1/20/16
+Cover image for The C++ programming language	
+The C++ programming language
+Stroustrup, Bjarne. 
+1	1/20/16
+Cover image for Data structures and algorithms for game developers	
+Data structures and algorithms for game developers
+Sherrod, Allen. 
+1	1/20/16
+Cover image for The flying machine book : build and launch 35 rockets, gliders, helicopters, boomerangs, and more	
+The flying machine book : build and launch 35 rockets, gliders, helicopters, boomerangs, and more
+Mercer, Bobby, 1961- 
+1	1/20/16
+Cover image for The racecar book : build and race mousetrap cars, dragsters, tri-can haulers & more	
+The racecar book : build and race mousetrap cars, dragsters, tri-can haulers & more
+Mercer, Bobby, 1961- 
+1	1/20/16
+Select All
+Checkout History
+Quick Search
+eBooks
+eAudiobooks
+Video Games
+eMagazines
+Music
+FLIP kits
+New DVDs
+DVDs on Order
+Helpful Links
+Reserve a Library Computer
+Ask a Librarian 
+Reading Recommendations
+Suggest a Purchase
+Interlibrary Loan
+Titles on Order
+Online Courses
+Tumblebooks
+Follow Us
+      
+SLPL.org ?
+Copyright 2014 SirsiDynix - Portfolio Version 4.3 (32169)
+Details for Superstar Christmas [sound recording]
+close
+Print It and more...
+Cover image for 
+Title All: Superstar Christmas [sound recording].
+Local Call Number: Holiday P
+Publication Information: New York : Epic, p1997.
+Physical Description: 1 sound disc : digital ; 4 3/4 in.
+Contents: Happy Xmas (war is over) (John Lennon & Yoko Ono) -- O holy night (Mariah Carey) -- Let it snow, let it snow, let it snow (Frank Sinatra) -- Santa Claus is coming to town (Michael Bolton) -- The Christmas song (Chestnuts roasting on an open fire) (Celine Dion) -- Merry Christmas baby (Bruce Springsteen & the E Street Band) -- Early Christmas morning (Cyndi Lauper) -- Have yourself a merry little Christmas (Luther Vandross) -- Silent night (Boyz II Men) -- Winter wonderland (Tony Bennett) -- You make it feel like Christmas (Neil Diamond) -- I'll be home for Christmas (Amy Grant) --White Christmas (Placido Domingo) -- What if Jesus comes back like that (Collin Raye) -- Christmas through your eyes (Gloria Estefan) -- The Lord's prayer (Barbra Streisand)
+Subject Term:
+Carols, English.
+Christmas music.
+OCLC: 37933732 (Sirsi) ACN-7241
