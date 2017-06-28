@@ -1,4 +1,4 @@
-[v0.0.8](https://github.com/littleflute/m19/edit/master/README.md)
+[v0.0.9](https://github.com/littleflute/m19/edit/master/README.md)
 
 [Sound City/cd](Sound City/cd)
 
@@ -11,3 +11,5 @@
 [Tamar Braxton/Calling all lovers/cd](Tamar Braxton/Calling all lovers/cd)
 
 [Tank/Now or never/cd](Tank/Now or never/cd)
+
+[Tank/Stronger/cd](Tank/Stronger/cd)
