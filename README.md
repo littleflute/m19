@@ -1,4 +1,4 @@
-[v0.1.2](https://github.com/littleflute/m19/edit/master/README.md)
+[v0.1.3](https://github.com/littleflute/m19/edit/master/README.md)
 
 [Sound City/cd](Sound City/cd)
 
@@ -19,3 +19,7 @@
 [Tenacious D/cd](Tenacious D/cd)
 
 [William Walton/The Bear/cd](William Walton/The Bear/cd)
+
+[The best Blue Note album in the world-- ever/cd1](The best Blue Note album in the world-- ever/cd1)
+
+[The best Blue Note album in the world-- ever/cd2](The best Blue Note album in the world-- ever/cd2)
