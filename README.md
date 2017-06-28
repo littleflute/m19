@@ -1,4 +1,4 @@
-[v0.1.1](https://github.com/littleflute/m19/edit/master/README.md)
+[v0.1.2](https://github.com/littleflute/m19/edit/master/README.md)
 
 [Sound City/cd](Sound City/cd)
 
@@ -17,3 +17,5 @@
 [Tenacious D/The pick of destiny/cd](Tenacious D/The pick of destiny/cd)
 
 [Tenacious D/cd](Tenacious D/cd)
+
+[William Walton/The Bear/cd](William Walton/The Bear/cd)
